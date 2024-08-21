@@ -1,4 +1,4 @@
-const BASE_API_URL = "http://api.thedogapi.com/v1";
+const BASE_API_URL = "https://api.thedogapi.com/v1";
 
 const fetchDogs = async() => {
 
